@@ -1,6 +1,8 @@
 # project_ayomi
 
-This project use a PostgreSLQ database to store the user information. 
+This project use a PostgreSLQ database to store the user information. Django, Python and Bootstrap for the app. Docker for the conterization.
+
+After downloading the project : 
 
 * use this command to start the build : 
 ```sh
