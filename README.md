@@ -1,5 +1,7 @@
 # project_ayomi
 
+This project use a PostgreSLQ database to store the user information. 
+
 * use this command to start the build : 
 ```sh
 docker-compose build
